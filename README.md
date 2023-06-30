@@ -1,6 +1,7 @@
+<img src="./logo.png" width="250" height="250" alt="7 Days of Hacking Langchain Logo" />
+
 # 7 Days of Hacking Langchain
 
-<img src="./logo.png" width="250" height="250" alt="7 Days of Hacking Langchain Logo" />
 
 Welcome to the LangChain Hacking Challenge! This repository is created to document my journey of learning and exploring **LangChain**. In this challenge, I aim to hack into seven different projects using LangChain over the course of seven days.
 
