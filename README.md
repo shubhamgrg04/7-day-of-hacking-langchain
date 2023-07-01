@@ -18,6 +18,17 @@ Each daily folder will contain a dedicated README.md file explaining the project
 - **Day 1:** [Youtube stock recommendations summary](day1/)
 
 
+## Getting started
+
+**Create a new virtual environment**
+
+```shell
+pyenv virtualenv 3.11 7daysofhackinglangchain
+pyenv activate 7daysofhackinglangchain
+```
+
+**Install required packages**
+`pip install -r requirements.txt`
 
 ## Contributing
 
